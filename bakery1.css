@@ -1,0 +1,211 @@
+
+    .abc{
+        height: 25%;
+        width: 100%;
+        background-image: url(cake3.jpg);
+        background-size: cover;
+        padding-right: -5%;
+        border: 10px solid black ;
+        padding-bottom: 15%;
+        text-align: center;
+        font-size: 140px;
+        font-weight: 900;
+        text-shadow: 1px 1px 2px black, 0 0 25px rgb(211, 0, 35),0 0 5px rgb(206, 56, 168); 
+    }
+
+ .blink{
+ padding: 15px;	
+ text-align: center;
+ line-height: 50px;
+ background-color: rgb(18, 137, 241);
+}
+span{
+ font-size: 30px;
+ font-family: cursive;
+ color: rgb(241, 74, 13);
+ animation: blink 1s linear infinite;
+}
+
+@keyframes blink{
+0%{opacity: 0;}
+50%{opacity: .5;}
+100%{opacity: 1;}
+}
+
+.p1:hover{
+background: linear-gradient(to bottom, #33ccff 0%, #ff99cc 100%)
+
+}
+
+.cake{
+ height: 25%;
+ width: 95%;
+ background-color: aquamarine;
+ background-image: url(cake7.jfif);
+ background-size: cover;
+ margin-top: -4%;
+ margin-right: auto;
+ margin-left: auto;
+ border-radius: 75px;
+ box-shadow: 5px 10px 8px #5e5c5c;   
+ 
+}
+
+.para{
+height: 45%;
+width: 49%;
+border-radius: 45%;
+background-color: cadetblue;
+
+background-size: cover;
+margin-right: 5%;
+box-shadow: 5px 10px 8px #5e5c5c;    
+}
+
+.para2{
+height: 45%;
+width: 49%;
+border-radius: 70px;
+background-color: plum;
+float: right;
+margin-top: -21.5%;
+box-shadow: 5px 10px 8px #5e5c5c;   
+
+}
+
+.para3{
+height: 45%;
+width: 49%;
+border-radius: 70px;
+background-color: yellow;
+box-shadow: 5px 10px 8px #5e5c5c;   
+
+}
+.para4{
+height: 45%;
+width: 49%;
+border-radius: 200px;
+background-color: cadetblue;
+background-size: cover;
+float: right;
+margin-top: -21.5%;
+box-shadow: 5px 10px 8px #5e5c5c;    
+}
+
+.para5{
+height: 45%;
+width: 49%;
+border-radius: 200px;
+background-color: plum;
+background-image: url(c.jpg);
+background-size: cover;
+box-shadow: 5px 10px 8px #5e5c5c;   
+
+}
+
+.para6{
+height: 45%;
+width: 49%;
+border-radius: 70px;
+background-color: tomato;
+background-image: url();
+background-size: cover;
+float: right;
+margin-top: -21.5%;
+box-shadow: 5px 10px 8px #5e5c5c;   
+
+}
+
+.para7{
+height: 45%;
+width: 49%;
+border-radius: 70px;
+background-color: rgb(250, 182, 54);
+box-shadow: 5px 10px 8px #5e5c5c;   
+
+}
+.para8{
+height: 45%;
+width: 49%;
+background-image: url(e.jpg);
+background-size: cover;
+border-radius: 200px;
+background-color: cadetblue;
+float: right;
+margin-top: -21.5%;
+box-shadow: 5px 10px 8px #5e5c5c;    
+}
+
+.def{
+        height: 25%;
+        width: 100%;
+        background-image: url(cake9.jpg);
+        background-size: cover;
+        padding-right: -5%;
+        border: 10px groove white;
+        padding-bottom: 15%;
+    }
+    .abc{
+        height: 25%;
+        width: 100%;
+        background-image: url(cake.jpg);
+        background-size: cover;
+        padding-right: -5%;
+        border: 10px groove gold;
+        padding-bottom: 15%;
+    }
+
+.blink{
+ background-color: magenta;
+ padding: 15px;	
+ text-align: center;
+}
+span{
+ font-size: 30px;
+ font-family: cursive;
+ color: orangered;
+ animation: blink 1s linear infinite;
+}
+
+@keyframes blink{
+0%{opacity: 0;}
+50%{opacity: .5;}
+100%{opacity: 1;}
+}
+
+.p1:hover{
+background: linear-gradient(to bottom, #33ccff 0%, #ff99cc 100%)
+
+}
+
+.box{
+height: 80%;
+width: 100%;
+background-image: url(cake10.jfif);
+background-size: cover;
+
+}
+
+.box2{
+height: 420px;
+width: 98%;
+margin-left: auto;
+margin-right: auto;
+background-color: rgb(150, 248, 248);
+border-radius: 360px;
+box-shadow: 5px 10px 8px #5e5c5c;   
+
+
+} 
+.t1{
+    background-color: #1d32f5;
+    color: aliceblue;
+    width: 50%;
+}
+.t2{
+    background-image: url(bg.jpg);
+
+}
+a{
+text-decoration: none;
+}
